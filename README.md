@@ -1,4 +1,5 @@
 # Libft
+This is a challenge to implement the various functions in C.
 
 ### Compling
 To compile:
