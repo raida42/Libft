@@ -1,4 +1,4 @@
-# Libft
+# Libft@42Tokyo
 
 ### Compling
 To compile:
