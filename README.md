@@ -1,6 +1,5 @@
 # Libft
 
-## Usage
 ### Compling
 To compile:
 
@@ -19,5 +18,5 @@ To re-compile:
  - `make re`
 
 ## Test
-Vist this URL
+Use this Libft tester
 https://github.com/alelievr/libft-unit-test
